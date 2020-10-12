@@ -115,6 +115,9 @@ span {
   /* margin-bottom: -100px; */
 }
 
+.msg-win {
+}
+
 /* animations */
 @keyframes piece-drop {
   0% {
